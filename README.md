@@ -22,6 +22,6 @@ This project uses a combination of **VADER Sentiment Analysis**, **Hugging Face'
 Feel free to fork the repository, open issues, and submit pull requests for improvements! Contributions are welcome, whether it's bug fixes, new features, or documentation improvements.
 
 ## Acknowledgments
-NLTK: For providing the VADER Sentiment Analysis tool.
-Hugging Face: For the amazing transformer models used in sentiment and emotion detection.
-Streamlit: For the user-friendly and interactive app framework.
+- NLTK: For providing the VADER Sentiment Analysis tool.
+- Hugging Face: For the amazing transformer models used in sentiment and emotion detection.
+- Streamlit: For the user-friendly and interactive app framework.
