@@ -18,6 +18,17 @@ This project uses a combination of **VADER Sentiment Analysis**, **Hugging Face'
 - **WordCloud**: For generating a visual representation of the most frequent words in the text.
 - **Pandas & JSON**: For data handling and exporting analysis results.
 
+## Setup
+1. Create a virtual environment:
+   ```python -m venv venv```
+2. Activate the virtual environment:
+   - Windows: ```venv\Scripts\activate```
+   - Unix/Mac: ```source venv/bin/activate```
+3. Install requirements:
+   ```pip install -r requirements.txt```
+4. Run the app:
+   ```streamlit run app.py```
+
 ## Contributing
 Feel free to fork the repository, open issues, and submit pull requests for improvements! Contributions are welcome, whether it's bug fixes, new features, or documentation improvements.
 

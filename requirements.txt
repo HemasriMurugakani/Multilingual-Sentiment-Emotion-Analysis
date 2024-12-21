@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+nltk
+transformers
+wordcloud
+matplotlib
+seaborn
+pandas
+langdetect
+torch
